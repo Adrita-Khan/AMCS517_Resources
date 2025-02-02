@@ -97,9 +97,26 @@ The lab complements the theory course by offering hands-on experience with progr
 ```
 
 
+
+
+## Acknowledgements
+
+We extend our sincere gratitude to **Dr. Md. Sahadet Hossain**, Professor in the Department of Mathematics and Physics at [North South University](https://www.northsouth.edu/faculty-members/seps/mathematics-physics/dr.-md.-sahadet-hossain-mth.html), for his invaluable guidance and expertise in designing and delivering this course. His dedication to advancing research in mathematics education has been instrumental in shaping the course content and structure.
+
+[GitHub profile](https://github.com/SahadetNSU).
+
+
 ## Contributing
 Contributions are welcome to enhance the course materials. Please submit pull requests or raise issues for improvements.
 
 ## License
 This project is licensed under the MIT License.
+
+## Contact
+
+For any inquiries or feedback, please contact:
+
+**Adrita Khan**  
+[📧 Email](mailto:adrita.khan.official@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/adrita-khan) | [🐦 Twitter](https://x.com/Adrita_)
+
 
