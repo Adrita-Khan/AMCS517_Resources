@@ -85,7 +85,16 @@ The lab complements the theory course by offering hands-on experience with progr
 
 ## Repository Structure
 
-/theory /lectures /assignments /reference_materials /lab /python_scripts /matlab_scripts /latex_templates
+```
+/theory
+    /lectures
+    /assignments
+    /reference_materials
+/lab
+    /python_scripts
+    /matlab_scripts
+    /latex_templates
+```
 
 
 ## Contributing
