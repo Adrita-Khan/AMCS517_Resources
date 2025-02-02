@@ -106,6 +106,49 @@ We extend our sincere gratitude to **Dr. Md. Sahadet Hossain**, Professor in the
 [GitHub profile](https://github.com/SahadetNSU).
 
 
+
+---
+
+## Additional Resources
+
+Here are some helpful resources to support your learning:
+
+### Tutorials
+- [Python for Beginners](https://www.w3schools.com/python/) - Interactive Python tutorials for beginners.
+- [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/getting-started) - Free MATLAB introductory course by MathWorks.
+- [Overleaf LaTeX Tutorials](https://www.overleaf.com/learn) - Comprehensive LaTeX guides and tutorials.
+
+### Lecture Notes
+- [MIT OpenCourseWare: Research Methods](https://ocw.mit.edu/courses/urban-studies-and-planning/11-233-research-design-for-policy-analysis-and-planning-fall-2006/) - Free lecture notes and materials on research methods.
+- [Introduction to Statistics](https://www.khanacademy.org/math/statistics-probability) - Khan Academy's free course on statistics.
+
+### Guidelines
+- [APA Style Guide](https://apastyle.apa.org/) - Comprehensive guide for writing research papers in APA format.
+- [IEEE Paper Submission Guidelines](https://journals.ieeeauthorcenter.ieee.org/) - Guidelines for preparing and submitting papers to IEEE journals.
+
+### Documentation
+- [Python Official Documentation](https://docs.python.org/3/) - Comprehensive reference for Python programming.
+- [MATLAB Documentation](https://www.mathworks.com/help/matlab/) - Complete documentation for MATLAB.
+- [LaTeX Wikibook](https://en.wikibooks.org/wiki/LaTeX) - A detailed guide for LaTeX users.
+
+### Research Writing
+- [How to Write a Research Paper](https://libguides.usc.edu/writingguide/researchpaper) - Guidelines for crafting effective research papers.
+- [Zotero Reference Manager](https://www.zotero.org/support/) - Tutorial on using Zotero for citation management.
+
+Feel free to explore these resources as they complement the course materials and enhance your learning experience.
+
+
+---
+
+
+
+
+
+
+
+
+
+
 ## Contributing
 Contributions are welcome to enhance the course materials. Please submit pull requests or raise issues for improvements.
 
