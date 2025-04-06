@@ -1,5 +1,7 @@
 # AMCS517 & AMCS517L: Research Methodology in Mathematics Education (Theory and Lab Courses)
 
+## *Disclaimer: This repository is dedicated to my own practice and reading for these courses.*
+
 This repository contains course materials for **Research Methodology in Mathematics Education** and its associated **Lab on Mathematical Research Tools**. These courses aim to equip students with the necessary skills and knowledge to conduct rigorous research in mathematics education.
 
 ---
